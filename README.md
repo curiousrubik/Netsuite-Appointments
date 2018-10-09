@@ -1,0 +1,2 @@
+# Netsuite-Appointments
+Kite app is a complete solution to manage entire employee rosters and appointments for companies. Starting from scheduling employees to publishing rosters and managing multi locations, outlets to time sheets are all available in one single app. This coupled with appointments app make it a perfect combination to manage bookings for clinics, medical services, beauty salons, event planners etc with full point of sale to accept payments, issue receipts, refunds, manage coupons with an integrated end to end accounting.
